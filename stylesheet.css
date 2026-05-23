@@ -83,7 +83,7 @@ footer{
     float:none; 
 } 
 body{ 
-    background-image: img src="skaly.JPG"
+    background-image: URL(skaly.JPG)
     background-repeat: no-repeat; 
     background-position: center; 
     background-attachment: fixed; 
