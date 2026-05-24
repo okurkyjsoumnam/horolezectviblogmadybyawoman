@@ -110,6 +110,13 @@ body{
     max-width: 300px; 
     width: 100%; 
 } 
+.hezupani img{
+    margin: 10px; 
+    display: flex; 
+    gap: 25px; 
+    max-width: 300px; 
+    width: 100%; 
+} 
 .sekce{ 
     display: flex; 
     gap: 20px; 
