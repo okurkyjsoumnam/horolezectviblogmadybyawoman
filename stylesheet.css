@@ -132,15 +132,7 @@ body{
     margin-top: 50px;
     margin-right: 5px; 
     height: auto; 
-} 
-.photo img{ 
-  max-width: 190px;
-  width: 100%; 
-  height: auto; 
-  margin-left: 1px;
-  margin-rightt: 1px;  
-  
-} 
+}  
 .box img{ 
     max-width: 300px; 
     width: 100%; 
