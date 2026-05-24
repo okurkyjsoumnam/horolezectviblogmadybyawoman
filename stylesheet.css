@@ -95,6 +95,7 @@ footer{
     padding-right: 5px; 
     display: block; 
     text-align: left; 
+    padding: 5px;
 } 
 .navbar a:hover{ 
     background-color:#fae39c ; 
@@ -141,9 +142,7 @@ body{
   width: 100%; 
   height: auto; 
   margin-top: 50px;
-   grid-row: 2 / 3; 
-    grid-column: 1 / 2; 
-    height: max-content; 
+  
 } 
 .box img{ 
     max-width: 300px; 
