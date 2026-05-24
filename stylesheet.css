@@ -83,8 +83,7 @@ footer{
 .navbar ul{ 
     list-style-type:none; 
     background-color: none ; 
-    padding-left: 5px; 
-    padding-right: 5px; 
+    padding: 5px;
     margin: 0px; 
     overflow:hidden; 
 } 
@@ -95,7 +94,7 @@ footer{
     padding-right: 5px; 
     display: block; 
     text-align: left; 
-    padding: 5px;
+    
 } 
 .navbar a:hover{ 
     background-color:#fae39c ; 
