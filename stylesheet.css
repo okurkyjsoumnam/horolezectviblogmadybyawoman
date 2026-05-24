@@ -107,6 +107,8 @@ body{
     margin: 10px; 
     display: flex; 
     gap: 25px; 
+    max-width: 190px; 
+    width: 100%; 
 } 
 .sekce{ 
     display: flex; 
@@ -133,7 +135,8 @@ body{
 .navbar img{ 
     max-width: 190px; 
     width: 100%;  
-    margin: 5px; 
+    margin-left: 5px; 
+    margin-right: 5px; 
 } 
 .photo img{ 
     max-width: 190px; 
