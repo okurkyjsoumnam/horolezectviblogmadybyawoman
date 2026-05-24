@@ -101,7 +101,7 @@ footer{
     float:none; 
 } 
 body{ 
-    background-color: #FE676E;
+    background-color: #C42B34;
 } 
 .hezupani{
     margin: 10px; 
@@ -118,15 +118,21 @@ body{
     gap: 20px; 
 } 
 .obsah img{ 
-    max-width: 100%;
+    max-width: 300px;
+    width: 100%; 
     height: auto; 
     margin-top: 50px;
     margin-right: 5px; 
+    height: auto; 
 } 
 .box img{ 
     margin: 15px;
 } 
 .photo img{ 
     max-width: 190px; 
+    width: 100%;  
     margin: 5px; 
+}
+main{ 
+    overflow: hidden; 
 }
