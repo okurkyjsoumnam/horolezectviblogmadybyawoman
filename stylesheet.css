@@ -137,7 +137,8 @@ body{
 .box img{ 
     max-width: 190px; 
     width: 100%; 
-    margin: 15px;
+    margin-left: 5px; 
+    margin-right: 5px; 
 } 
 .navbar img{ 
     max-width: 190px; 
